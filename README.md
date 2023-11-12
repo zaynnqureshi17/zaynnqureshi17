@@ -4,7 +4,7 @@ Beyond the world of code, I'm a communication wizard 🧙‍♂️, able to tran
 
 I'm a lifelong learner, currently on a quest to master Rust. 📚 I hold a Bachelor of Science Honours in Software Engineering from Coventry University, UK, and have completed several relevant courses to further enhance my knowledge.
 
-In addition to my professional work, I'm an open-source enthusiast and maintainer. I believe in the power of collaboration and knowledge sharing that happens through open-source. 🌐
+In addition to my professional work, I'm an open-source enthusiast and maintainer. I believe in the power of collaboration and knowledge sharing that happens through open source. 🌐
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgxd215bzU0bnNpMHlnOGYxcHNzZzhhbGczd3NlbjdwY2w0cm5oYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" width="460" height="400" />
 
@@ -15,12 +15,14 @@ In addition to my professional work, I'm an open-source enthusiast and maintaine
 - **MySQL**: An open-source relational database management system: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 - **Firebase**: Creating mobile and web applications: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 - **Git**: Tracking changes in source code during software development: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-- **Next.js**: A React framework for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+- **Next.js**: A React framework for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching.
 
-If you're digging my work and want to show some love, why not buy me a coffee? ☕ Your support will fuel my learning, growth, and contributions to the open-source community. 🌱
+If you're digging into my work and want to show some love, why not buy me a coffee? ☕ Your support will fuel my learning, growth, and contributions to the open-source community. 🌱
 
 <a href="https://www.buymeacoffee.com/zaynnqureshi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 **My GitHub Stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaynnqureshi17&show_icons=true&theme=gotham" alt="zaynnqureshi17" />
+
+If you have any questions, feel free to reach out to me at <a href="mailto:zaynnqureshi.dev@gmail.com">zaynnqureshi.dev@gmail.com</a>. I'm always happy to help! 😊
