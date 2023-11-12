@@ -10,7 +10,7 @@ I look forward to bringing my problem-solving skills, dedication to quality, and
 - 💼 any freelance work? do reach, [email](mailto:mohammad.zain.311z@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgxd215bzU0bnNpMHlnOGYxcHNzZzhhbGczd3NlbjdwY2w0cm5oYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgxd215bzU0bnNpMHlnOGYxcHNzZzhhbGczd3NlbjdwY2w0cm5oYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" width="460" height="400" />
 
 **Languages and tools:**
 
@@ -26,6 +26,6 @@ if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/zaynnqureshi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-📈 my stats
+📈 **My Stats:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zaynnqureshi17&show_icons=true&theme=gotham" alt="zaynnqureshi17" />
