@@ -6,11 +6,11 @@ I’m a lifelong learner, expanding my skill set by learning Rust. I hold a Bach
 
 I look forward to bringing my problem-solving skills, dedication to quality, and passion for coding to your projects. I’m also an open-source enthusiast and maintainer, valuing the collaboration and knowledge sharing that happens through open-source.
 
-
-  <img align="right" alt="GIF" src="https://gifdb.com/images/high/black-fast-typing-cat-rfo58klql1gydnw3.gif" width="500" height="500" />
   
 - 💼 any freelance work? do reach, [email](mailto:mohammad.zain.311z@gmail.com) :)
 - 💬 ask me about anything, I am happy to help;
+
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgxd215bzU0bnNpMHlnOGYxcHNzZzhhbGczd3NlbjdwY2w0cm5oYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" />
 
 **Languages and tools:**
 
